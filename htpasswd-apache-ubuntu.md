@@ -1,6 +1,3 @@
-cesi-initiation-s-curiser-ubuntu
-================================
-
 # Configuration Apache sur Ubuntu
 
 
